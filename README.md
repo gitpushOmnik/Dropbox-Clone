@@ -43,6 +43,12 @@ The application displays a table with all the uploaded files and their details, 
 
 ## Screenshots of the website
 
+<img src="https://github.com/gitpushOmnik/Dropbox-Clone/blob/main/README/contract-testing.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/Dropbox-Clone/blob/main/README/homepage.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/Dropbox-Clone/blob/main/README/file-upload.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/Dropbox-Clone/blob/main/README/files.png" width="1250" height="500"> 
+<img src="https://github.com/gitpushOmnik/Dropbox-Clone/blob/main/README/saved-files.png" width="1250" height="300"> 
+
 
 ## Additional Information
 
